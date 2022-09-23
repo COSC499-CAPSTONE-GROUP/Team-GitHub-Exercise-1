@@ -31,3 +31,5 @@ After thorough research, i found 2 ways of writing a function to calculate the m
 
 *Finding Mode*
 refers to finding the most frequent number in a given set of numbers
+
+*Mathematically*
