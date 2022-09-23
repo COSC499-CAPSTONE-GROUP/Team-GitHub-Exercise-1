@@ -47,4 +47,6 @@ After going through a vast range of algorithims, the way I cose to write the fun
 
 #### Overview
 
-By saying I'm _Finding min_ I'm inferring that I'm evaluating which value is the minimum integer value from a given array that
+By saying I'm _Finding min_ I'm inferring that I'm evaluating which value is the minimum integer value from a given array that only contains integer values. This is what the **min.java** file will do.
+
+#### The findMin method
