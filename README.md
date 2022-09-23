@@ -11,3 +11,12 @@
 This method works by taking the user's inputed array of integers and using a `for` loop to iterate through all the elements. The variable `max` keeps track of the current maximum value and is updated every time a new maximum value is found. Once all of the elements have been compared, the maximum value is returned for it to be displayed back to the user. 
 
 For example, if the user enters the values `3, 26, 73, 15, 29, 56, 81` and chooses the maximum value feature, the method should return the value `81`.
+
+### Feature #1: Finding Mean
+
+*Finding mean* 
+refers to finding the average  value of a given set of numbers.
+
+*Mathematically* 
+you just need to add all the numbers together and divide it by the total number of integers.
+
