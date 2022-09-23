@@ -31,16 +31,16 @@ public class Main {
 		//Determine which feature was chosen and display the results
 		switch(feature) {
 			case 1:
-				System.out.println("\nThe maximum value is: ");
+				System.out.println("\nThe maximum value is: " + FindMax.findMax(array));
 				break;
 			case 2:
-				System.out.println("\nThe minimum value is: ");
+				System.out.println("\nThe minimum value is: " + min.findMin(array));
 				break;
 			case 3:
-				System.out.println("\nThe mean value is: ");
+				System.out.println("\nThe mean value is: " + mean.calculateMean(array));
 				break;
 			case 4:
-				System.out.println("\nThe mode value is: ");
+				System.out.println("\nThe mode value is: " + ModeFinding.mode(array));
 				break;
 		}
 
