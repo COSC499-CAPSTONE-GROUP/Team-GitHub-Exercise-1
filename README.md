@@ -36,3 +36,5 @@ refers to finding the most frequent number in a given set of numbers
 You just need to find the most frequent number that occurs in a set of numbers.
 
 *Programmatically*
+
+A for loop will run and identify the most frequent number.
