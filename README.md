@@ -26,3 +26,5 @@ a for loop is run which calculates the sum of all integers in an array, after th
 
 *Why is this the best approach*
 After thorough research, i found 2 ways of writing a function to calculate the mean, the first one was to use iteration which is what i ended up using and other was using recursion. Both had a runtime of O(n) so instead i looked at the space complexity, the iteration algorithm had O(1) and the recursive one had O(N), hence i decided to go for the iteration algorithm.
+
+### Feature #3: Finding Mode
