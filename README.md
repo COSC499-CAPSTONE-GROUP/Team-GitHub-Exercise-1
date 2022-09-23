@@ -34,3 +34,5 @@ refers to finding the most frequent number in a given set of numbers
 
 *Mathematically*
 You just need to find the most frequent number that occurs in a set of numbers.
+
+*Programmatically*
