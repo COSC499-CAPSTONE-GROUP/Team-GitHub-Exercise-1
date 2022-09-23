@@ -51,4 +51,4 @@ By saying I'm _Finding min_ I'm inferring that I'm evaluating which value is the
 
 #### The findMin method
 
-This method will take in an integer array as a parameter and will return the minimum value in the array. It will only work if the array contains only integer values.
+This method will take in an integer array as a parameter and will return the minimum value in the array. It will only work if the
