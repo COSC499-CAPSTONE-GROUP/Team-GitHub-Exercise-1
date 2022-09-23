@@ -1,3 +1,4 @@
+package main;
 import java.util.Scanner;
 
 class ModeFinding {
@@ -12,7 +13,7 @@ class ModeFinding {
         System.out.println("Mode is: " + mode);
     }
 
-    public int mode(int[] array) {
+    public static int mode(int[] array) {
         // As all numbers are only 0-100
         // declare a map which will keep freq of numbers
         int[] map = new int[101];
