@@ -47,4 +47,4 @@ After going through a vast range of algorithims, the way I cose to write the fun
 
 #### Overview
 
-By saying I'm _Finding min_ I'm inferring that I'm evaluating
+By saying I'm _Finding min_ I'm inferring that I'm evaluating which value is the minimum integer value from a given array that
