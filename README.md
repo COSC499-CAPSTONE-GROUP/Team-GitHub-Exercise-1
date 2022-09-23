@@ -38,3 +38,6 @@ You just need to find the most frequent number that occurs in a set of numbers.
 *Programmatically*
 
 A for loop will run and identify the most frequent number.
+
+*Why is this the best approach*
+After going through a vast range of algorithims, the way I cose to write the functions had a better time complexity. Making it the better approach.
