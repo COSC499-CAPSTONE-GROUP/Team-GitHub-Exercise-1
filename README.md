@@ -12,7 +12,7 @@ This method works by taking the user's inputed array of integers and using a `fo
 
 For example, if the user enters the values `3, 26, 73, 15, 29, 56, 81` and chooses the maximum value feature, the method should return the value `81`.
 
-### Feature #1: Finding Mean
+### Feature #2: Finding Mean
 
 *Finding mean* 
 refers to finding the average  value of a given set of numbers.
